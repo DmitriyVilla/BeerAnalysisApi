@@ -25,7 +25,7 @@ Das Projekt ist bewusst einfach und übersichtlich aufgebaut:
 - Tests – Unit-Tests mit xUnit und Moq
 
 
-## Endpoints:
+## Endpoints
 
 - /api/products/cheapest-per-litre
 - /api/products/most-expensive-per-litre
