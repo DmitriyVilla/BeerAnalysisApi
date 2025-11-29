@@ -17,12 +17,12 @@ Ein paar Unit-Tests sind ebenfalls enthalten.
 
 Das Projekt ist bewusst einfach und übersichtlich aufgebaut:
 
-- Controllers – API-Endpoints
-- Services – Business-Logik
-- Clients – Laden der JSON-Daten
-- Utils – kleine Parser (Preis pro Liter, Flaschenanzahl)
-- Models / DTOs – Datenstrukturen
-- Tests – Unit-Tests mit xUnit und Moq
+- Controllers - API-Endpoints
+- Services - Business-Logik
+- Clients - Laden der JSON-Daten
+- Utils - kleine Parser (Preis pro Liter, Flaschenanzahl)
+- Models / DTOs - Datenstrukturen
+- Tests - Unit-Tests mit xUnit und Moq
 
 
 ## Endpoints
